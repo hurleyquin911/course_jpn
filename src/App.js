@@ -7,7 +7,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="course_jpn">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/artikel" element={<Artikel />} />
