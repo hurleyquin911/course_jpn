@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/course_jpn/static/css/main.d58cedb4.css",
-    "main.js": "/course_jpn/static/js/main.03847056.js",
+    "main.js": "/course_jpn/static/js/main.dd032981.js",
     "static/media/Logo4.jpg": "/course_jpn/static/media/Logo4.b1043b1247da947420cc.jpg",
     "static/media/Logo2.png": "/course_jpn/static/media/Logo2.b40b4934b8b49762a3d9.png",
     "static/media/Logo.png": "/course_jpn/static/media/Logo.6a7ff33c02bb04e74ec1.png",
     "index.html": "/course_jpn/index.html",
     "main.d58cedb4.css.map": "/course_jpn/static/css/main.d58cedb4.css.map",
-    "main.03847056.js.map": "/course_jpn/static/js/main.03847056.js.map"
+    "main.dd032981.js.map": "/course_jpn/static/js/main.dd032981.js.map"
   },
   "entrypoints": [
     "static/css/main.d58cedb4.css",
-    "static/js/main.03847056.js"
+    "static/js/main.dd032981.js"
   ]
 }
